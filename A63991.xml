@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty eight propositions made by both Houses of Parliament nineteen of them to the Kings Maiestie for a reconciliation of differences between His Majesty and the said Houses, the other nine concerning the raising of horse, horsemen, and arms for the defence of the King and both Houses of Parliament : also instructions for deputie lieutenants which are members of the House of Commons and other lieutenants of severall counties concerning the last propositions, likewise the names of the commissaries who are to inroll and value the horses and arms according to the propositions.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63991</idno><idno type="EEBO-CITATION">9432188</idno>
+  <idno type="VID">43082</idno>
+  <idno type="EEBO-PROQUEST">2264190884</idno>
+  
+            <idno type="STC">Wing T3408</idno>
+            <idno type="STC">ESTC R26338</idno>
+            <idno type="OCLC">09432188</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty eight propositions made by both Houses of Parliament nineteen of them to the Kings Maiestie for a reconciliation of differences between His Majesty and the said Houses, the other nine concerning the raising of horse, horsemen, and arms for the defence of the King and both Houses of Parliament : also instructions for deputie lieutenants which are members of the House of Commons and other lieutenants of severall counties concerning the last propositions, likewise the names of the commissaries who are to inroll and value the horses and arms according to the propositions.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43082:1"/>
+            <pb facs="tcp:43082:1"/>
+            <p>TVVENTY EIGHT PROPOSITIONS Made by both Houses of PARLIAMENT.</p>
+            <p>Nineteen of them to the Kings MAIESTIE for a Reconciliation of Differences between His Majesty and the said <hi>Houses.</hi>
+            </p>
+            <p>The other nine concerning the Raising of Horse, Horsemen, and Arms, for the defence of the KING and both Houses of PARLIAMENT.</p>
+            <p>
+               <hi>ALSO,</hi> Instructions for Deputie Lieutenants which are Members of the House of COMMONS, and other Lieutenants of severall Counties, concerning the last Propositions.</p>
+            <p>Likewise the names of the Commissaries who are to Inroll and value the Horses and Arms according to the propositions.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>And now Printed by Order, with the former faults amended.</p>
+                        <p>Hen. Elsyng. Cler. Par. D. Com.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Iune</hi> the 20. for <hi>William Gey</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43082:2"/>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most humble and faithfull Subjects, the Lords <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Commons in Parliament, having nothing in their thoughts and desirs more precious, and of higher esteeme (next to the ho<g ref="char:EOLhyphen"/>nor and immediate service of God) then the just and faithfull performance of their dutie to your Maiesty and this Kingdome; And being very sensible of the great distractions, and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stem<g ref="char:EOLhyphen"/>pers and of the imminent dangers and calamities which those distractions, and distempers are like to bring upon your Maiesty and your Subiects, all which have proceeded from the subtill <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nuations, mischievous practices, and evill Counsels of men disaffected to Gods true R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion, your Maiesties honour and safety, and the publike peace and prosperitie of your people, After a serious obser<g ref="char:EOLhyphen"/>vation of the causes of those mischiefes, doe in all humilitie and sincerity present to your Maiestie their most dutifull Petition and advise, that out of your Princely wisdome for the establishing your owne ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or and safety, and gratious tendernesse of the welfare of your Subiects and Dominions, you will be pleased to grant and accept these their humble desires and propositions, as the most necessary effectuall meanes▪ through Gods blessing▪ of removing those jealousies and differences which have unhappily fallen betwixt you and your people and procuring both your Maie<g ref="char:EOLhyphen"/>sty and them a constant course of honour, peace, and happinesse.</p>
+            <p n="1">1. That the Lords and other of your Maiesties Privy Counsell, and such great Officers and Ministers of State, either at home or beyond the Seas, may be put from your Privy Councell, and from those Offices and imployments, exepting such as shall be approved of by both houses of Parliament. And that the persons put in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the places and imployments of those that are removed, may be approved of by both Houses of Parliament. And that all Privy Counsellors shall take an Oath for the due execution of their places, in such forme as shall bee agreed upon by both Houses of Parliament.</p>
+            <p n="2">2. That the great affaires of this Kingdome may not be concluded o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> transacted by the advice of private men▪ or by any unknowne, or unsworne Counsellour<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but that such matters as concern the publique, and are proper for the high Court of Parliament, which is your Maiesties great and supreame Counsell, may be de<g ref="char:EOLhyphen"/>bated, resolved, and transacted onely in Parliament, and not elsewhere; And such as shall presume to doe any thing to the contrary, shall be reserved to the censure and judgement of Parliament; And such other matters of State as are proper for your Maiesties privy Counsell, shall be debated and concluded by such of the No<g ref="char:EOLhyphen"/>bilitie and others as shall from time to time be chosen for that place by approbati<g ref="char:EOLhyphen"/>on of both Houses of Parliament; And that no publique Act concerning the af<g ref="char:EOLhyphen"/>faires oft he Kingdome, which are proper for your privy Counsell, may be estee<g ref="char:EOLhyphen"/>med of any validitie as proceeding from the royall Authoritie, unlesse i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee done
+<pb facs="tcp:43082:2"/> by the advice and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the major part of your Councell attested, under their hand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And that your Councell may be limited to a certaine number not exce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ding twenty-five▪ nor under fifteene. And if any Councellors place happen to bee voyd in the Intervals of Parliame<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it shall not bee supplyed without the assent o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the major part of the Councell, which choyce shall be confirmed at the next sitting of the Parliament▪ or else to be voi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p n="3">3. That the Lord high Steward of <hi>England,</hi> Lord high Constable, Lord Chaun<g ref="char:EOLhyphen"/>cellor, or Lord Keeper of the great Seale, Lord Treasurer, Lord Privie Seale, Earle Marshall, Lord Admirall, Warden of the Cinque Ports, chiefe Governour of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Chancellour of the <hi>Exchequer,</hi> Master of the Wards, Secretaries of State, two chiefe Justices and chiefe Barons, may alwaies be chosen with the approbation of both Houses of Parliament: And in the Intervalles of Parliament by assent of the the Major part of the Councell, in such manner as is before exprest in the choice of Councellors.</p>
+            <p n="4">4. That hee or they unto whom the Governement and education of the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Children shall be committed shall bee approved of by both Houses of Parliament, and in the Intervalls of Parliaments, by the assent of the maior part of the Corn<g ref="char:EOLhyphen"/>sell, in such manner as is before exprest in the choice of Counsellors; And that all such servants as are now about them, against whom both Houses shall have any just exception shall be removed.</p>
+            <p n="5">5. That no Marriage shall bee concluded, or treated for any of the Kings Chil<g ref="char:EOLhyphen"/>dren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h any for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aigne Prince, or other person whatsoever abroad, or at home, without the consent Parliament, under the Penaltie of a premunite unto such as s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all so conclude, or treate any Marriage as aforesaid, and that the said penaltie shall not bee pardoned, or dispensed with, by the consent of both Houses of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="6">6. That the Lawes in force against Jesuites, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iests, and Popish Recusants, bee strictly put in execution, without any tolleration, or dispensation to the cont<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary; And that some effectuall course may bee enacted, by authority of Parliament, to dis<g ref="char:EOLhyphen"/>able them from making any disturbance in the State, or eluding the Law by trusts o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> otherwise.</p>
+            <p n="7">7. That the Votes of Popish Lords in the House of Peeres may bee taken away, so long at they continue Papists. And that His Majestie would consent to such a Bill as shall be drawne for the education of the Children of Papists by Protestants, in the Protestant Religion.</p>
+            <p n="8">8. That <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Majestie will bee pleased to consent that such a reformation bee made of the Church-governement, and Liturgie, as both Houses of Parliament shall advise wherein they intend to have consultations with Divines, as is expressed in their Declaration to that purpose. And that your Majestie will contribute your best assistance to them, for the raising of a sufficient maintenance for Preaching Ministers through the Kingdome. And that your Majestie will bee pleased to give your con<g ref="char:EOLhyphen"/>sent to Lawes, for the taking away of innovations, and superstition, and of Plurali<g ref="char:EOLhyphen"/>ties, and against scandalous Ministers.</p>
+            <p n="9">9. That your Majestie will bee pleased to rest satisfied with that course that the Lords and Commons have appointed for ordering the <hi>Militia,</hi> untill the same shall
+<pb facs="tcp:43082:3"/> bee further setled by a Bill. And that your Majesty will recall your Declaration, and Proclamations against the Ordinance made by the Lords and Commons con<g ref="char:EOLhyphen"/>cerning it.</p>
+            <p n="10">10. That such members of either House of Parliament, as have during this pre<g ref="char:EOLhyphen"/>sent Parliament been put out of any place and Office, may either be restored to that place and office, or otherwise have satisfaction for the same, upon the Petition of that House whereof he or they are Members.</p>
+            <p n="11">11. That all Privie Councellors and Judges may take an Oath, the forme where<g ref="char:EOLhyphen"/>of to be agreed on and setled by act of Parliament for the maintaining of the Peti<g ref="char:EOLhyphen"/>tion of Right, and of certaine Statutes made by this Parliament, which shall be men<g ref="char:EOLhyphen"/>tioned by both Houses of Parliament. And that an inquire of all the breaches and violations of these Lawes may bee given in charge, by the Justices of the Kings Bench every Terme, and by the Judges of Assize in their Circuits, and Justices of peace at the Sessions, to be presented and punished according to Law.</p>
+            <p n="12">12. That all the Judges and all Officers placed by approbation of both Houses of parliament, may hold their places <hi>Quam diubene se gesserint.</hi>
+            </p>
+            <p n="13">13. That the Justice of parliament may passe upon all Delinquents, whether they be within the Kingdom or fled out of it. And that all persons cited by either House of parliament, may appear and abide the censure of parliament.</p>
+            <p n="14">14. That the generall par<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n offered by your Majestie may be granted with such exceptions as shall be devised by both Houses of parliament.</p>
+            <p n="15">15. That the Forts and Castles of this Kingdom may be put under the command and custody of such persons as your Majestie shall appoint with the approbation of your parliament. And in the intervals of parliament with the approbation of the major part of the Councell in such manner as is before expressed in the choice of Councellors.</p>
+            <p n="16">16. That the extraordinarie Guards and militarie forces now attending your ma<g ref="char:EOLhyphen"/>jestie, may be removed and discharged. And that for the future you will raise no such guards or extraordinarie forces▪ but according to Law, in case of actuall rebel<g ref="char:EOLhyphen"/>lion or invasion.</p>
+            <p n="17">17. That your majestie will be pleased to enter into a more strict alliance with the States of the united provinces and other Neighbour princes and States of the protestant Religion, for the defence and maintenance thereof against all designes and attempts of the pope and his adherents to subvert and suppresse it, wherby your maiestie will obtain a great accesse of strength and reputation, and your Subjects be much encouraged and enabled in a parliamentary way for your aid and assistance, in restoring your royall Sister, and the princely issue, to those dignities and domi<g ref="char:EOLhyphen"/>nions which belong unto them, and relieving the other distressed protestant princes, who have suffered in the same cause.</p>
+            <p n="18">18. That your majestie will be pleased by Act of parliament, to cleer the Lord <hi>Kimbolton,</hi> and the five members of the House of Commons, in such manner, that future Parliaments may be secured from the Consequence of that ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> president.</p>
+            <p n="19">19. That your majestie will be graciously pleased to passe a Bill for restraining peers made hereafter, from sitting, or Voting in Parliament; Unlesse they be ad<g ref="char:EOLhyphen"/>mitted thereunto, with the consent of both Houses of Parliament,</p>
+            <pb facs="tcp:43082:3"/>
+            <p>And these our humble desires, being granted by Your Majestie, we shall forth<g ref="char:EOLhyphen"/>with apply ourselves to regulate your present Revenue, in such sort as may be for your best advantage; and likewise to settle such an ordinary and constant increase of it, as shall be sufficient to support Your Royall dignity, in Honour and plentie, beyond the proportion of any former Grants of the Subjects▪ of this Kingdom to your Majesties Royall predecessors.</p>
+            <p>We shall likewise put the Town of <hi>Hull,</hi> into such hands as Your majesty shall appoint, with the consent and approbation of parliament, and deliver up a just ac<g ref="char:EOLhyphen"/>count of all the magazine; and cheerfully employ the uttermost of our power and endeavour, in the reall expression and performance of our most dutifull and Loyall affections, to the preserving, and maintaining the Royall Honour, Greatnesse, and Safety of Your majestie, and your posteritie.</p>
+            <div type="part">
+               <head>Propositions and Orders by the Lords and Commons in Parliament, for bringing in of Money and Plate.</head>
+               <p>VVHereas it appeares that the King (seduced by wicked counsell) intends to make warre against his Parliament, and in pursuance thereof, un<g ref="char:EOLhyphen"/>der pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tence of a guard for his Person hath actually begun to levie forces both of Horse and Foote, and sent out summons throughout the County of <hi>Yorke,</hi> for the calling together of greater numbers, and some ill af<g ref="char:EOLhyphen"/>fected persons have been imploy'd in other parts to rais Troops under the colour of his Majesties service, making large offers of reward and preferment to such as will come in; And that his Majestie doth with a high and forcible hand, protect and keepe away Delinq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents, not permitting them to make their appearance to answer such affronts and injuries as have beene by them offered unto the Parliament, and those Messengers which have beene sent from the Houses for them have beene abu<g ref="char:EOLhyphen"/>sed, beaten and imprisoned, so as the Orders of Parliament, which is the highest Court of Justice in this Realme, are not obeyed, and the authority of it is altoge<g ref="char:EOLhyphen"/>ther scorned and vilified, and such persons as stand well affected to it, and declare themselves sensible of these publike calamites, and of the violations of the Priviled<g ref="char:EOLhyphen"/>ges of Parliament and common liberty of the subject are baffled and injured by se<g ref="char:EOLhyphen"/>verall sorts of malignant men who are about the King, some whereof under the name of Caviliers, without having respect to the Lawes of the Land, or any feare ei<g ref="char:EOLhyphen"/>ther of God or man are ready to commit all manner of outrage and violence, which must needes tend to the dissolution of this Governement, the destroying of our Re<g ref="char:EOLhyphen"/>ligion, Lawes, liberty and propriety; all which will be exposed to the malice and violence of such desperate persons as must be imployed in so horred and vnnaturall an act as the overthrowing of a Parliament by force, which is the support and preservation of them; All which being duely considered by the Lords and Commons, and how great an obligation lies upon them in Honour, Conscience and Duty, according to the high trust reposed in them, to use all possible
+<pb facs="tcp:43082:4"/> meanes in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch cases for the timely prevention of so great and irrecoverable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vills, they have though<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to publish their sence and apprehention of this imminent dan<g ref="char:EOLhyphen"/>ger, thereby to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all well affected persons to contribute their best assistance ac<g ref="char:EOLhyphen"/>cording to their solemne Vow and Protestation, to the preparatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s necessary <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the opposing and suppressing of the tray cerous attempts of those Wicked and Ma<g ref="char:EOLhyphen"/>lignant Councellors, who seeke to engage the King in so dangerous and destructive an enterprize, and the whole Kingdome <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> civill War, and destroy the priviled<g ref="char:EOLhyphen"/>ges and being of Parliaments; This recourse to the good affection of those that tender their Religion and just Liberties, and the injoyment of the blessed fruits of this present Parliament, which were almost ready to be reaped; and are now as rea<g ref="char:EOLhyphen"/>dy to be ruined by those wicked hands, being the onely remedy left them under God, and without which they are no longer able to preserve themselves or those by whom they are intrusted.</p>
+               <p n="1">1. They the said Lords and Commons doe declare, that whosoever shall bring in any proportion of ready Mony or Plate, or shall underwrite to furnish and main<g ref="char:EOLhyphen"/>taine any number of Horse, Horse-men and Armes, for the preservation of the pub<g ref="char:EOLhyphen"/>like peace, and for the defence of the King and both Houses of Parliament from force and violence, and to uphold the power and priviledges of the Parliament ac<g ref="char:EOLhyphen"/>cording to his Protestation shall be held a good and acceptable Service to the Com<g ref="char:EOLhyphen"/>mon-wealth, and a testimony of his good Affections of the Protestant Religion, the Lawes liberties and peace of this Kingdome, and to the Parliament and privi<g ref="char:EOLhyphen"/>ledges thereof.</p>
+               <p>And because a considerable ayde cannot be raised by few hands; and the condi<g ref="char:EOLhyphen"/>tion of all men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes and occasions is not alwaies proportionable to their Affecti<g ref="char:EOLhyphen"/>on. The Lords and Commons doe declare▪ that no mans affection shall be measu<g ref="char:EOLhyphen"/>red according to the proportion of his offer; so that he expresse his good will to this Service i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any proportion whatsoever.</p>
+               <p n="2">2. And it is fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther declared by the Lords and Commons in Parliament, that whosoever shall bring in any mony or pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or shall furnish and maintaine any horse, horse-men and A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes for the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poses: aforesaid shall have their Mony re<g ref="char:EOLhyphen"/>payed with the interest according to 8 pound <hi>per cent.</hi> and the full value of their Plate, with Consideration for the fashion, not exceeding one shilling by the ounce, and shall have full recompence for all their charge, in finding furnishing and main<g ref="char:EOLhyphen"/>taining of horse, horse-men and Armes, and for this both Houses of Parliament doe engage the publik faith.</p>
+               <p n="3">3. And it is ordained that Sir <hi>Iohn Wal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iston</hi> Knight and Alderman, Alderman <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wes,</hi> Alderman <hi>warner,</hi> and Alderman <hi>Andrewes</hi> shall bee Treasurers to receive all such mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and plate as shall be brought in for the purposes aforesaid, and the acqui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tances of them or any two of them for the receipt of the same shall be a suffi<g ref="char:EOLhyphen"/>cient ground for the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y so lending Money or plate to demand the same againe with the Interest and likewise consideration for the fashion of the Plate.</p>
+               <p n="4">4. It is Ordered, That there b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Commissaries to value the Horse and Arms that shall be furnished for this service; and that a signification under the hands of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em, or any two of them of such values of the Horse and Arms; and of the time▪ when they were first brought in
+<pb facs="tcp:43082:4"/> shall be a Warrant to demand satisf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> according to the said values and they shall keep an account of the time, from the first Inrolment of any such Horse and Horse<g ref="char:EOLhyphen"/>men, That such as find and maintain them, may be re-paid according to the rate of 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6d. <hi>per di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m,</hi> for so long time as they have maintained them in this service; And the Commissaries are to attend at <hi>Guild-hall</hi> for the receiving and introlling of such numbers of Horse as shall be brought in.</p>
+               <p n="5">5. It is Ordered, That whosoever shall bring in Money, or Plate, or shall pro<g ref="char:EOLhyphen"/>vide and maintain Horse, Horsemen, and Arms for this service, shall do according to their duty therein And the Lords and Commons do ingage the Power, and Au<g ref="char:EOLhyphen"/>thority of Parliament, to save them harmelesse from all prejudice and inconvenience that may befall them by occasion thereof.</p>
+               <p n="6">6. It is Ordered, That the Members of either House who are present, shall be desired to Declare in their Houses respectively, what Money, or plate they will bring in or what Horse, Horsemen and Arms they will finde and maintain.</p>
+               <p n="7">7. It is desired, That all s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch as have their residence in or about <hi>London,</hi> or within 80 miles will bring in their M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney plate, or Horse▪ within a fortnight af<g ref="char:EOLhyphen"/>ter notice, and they that dwell farther off, within three weekes.</p>
+               <p n="8">8. And because every person may not be provided with present Money, or with Horse, or not have his plate with him, which he meanes to bring in, and yet resolves to contribute his part within the time limited and that it is necessary it should be presently known what the provision will be, for the effecting of this great and im<g ref="char:EOLhyphen"/>portant service; It is ordered, that the Committees of either House, appointed for that purpose respectively, shall receive the subscriptions of such Members of each House, as have not declared themselves in the House, or are absent upon the pub<g ref="char:EOLhyphen"/>like service or for their private occasions. 2. That the Committee of <hi>London</hi> in<g ref="char:EOLhyphen"/>trusted with the Militia, shall receive the subscriptions in <hi>London</hi> and <hi>Middlese<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 3. That some persons nominated by the Knights and Burgesses of each Countie, and approved by both Houses, shall be appointed to receive the subscriptions in the severall Counties.</p>
+               <p n="9">9. And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>astly, it is Declared, That whatsoever is brought in, shall not at all be imployed upon any other occasion, then to the purposes aforesaid; which are to maintain the Protestant Religion the Kings Authority and His Person in His Roy<g ref="char:EOLhyphen"/>all Dignity, the free course of Justice▪ the Laws of the Land, the peace of the Kingdom, and the Priviledge of Parliament, against any force which shall oppose them. And this by the direction of both Houses of Parliament.</p>
+            </div>
+            <div type="text">
+               <head>Instructions for Deputy Lieutenants, which are Members of the House of Commons, and other Lieutenants of severall Coun<g ref="char:EOLhyphen"/>ties, concerning the last Propositions.</head>
+               <head type="sub"> TOGETHER WITH THE NAMES OF THE COMISSARIES WHO are to inroll and value the Horses and Arms, according to the propositions</head>
+               <p n="1">1. THat the Deputy Lieutenants of each County, which are Members of the House, shall have Authority to tender the Propositions to the other Depu<g ref="char:EOLhyphen"/>ty
+<pb facs="tcp:43082:5"/> Lieutenants of the same County; and take their subscriptions, and all such Deputy Lieutenants, or any two of them as shall subscribe according to the Propositions, shall have Authority to assemble and call together all such per<g ref="char:EOLhyphen"/>sons as they shall think fit, and to tender those propositions to all such persons as shall be present, or to any persons within their County respectively, and receive their subscriptions: And the said Deputy Lievtenants, or any two of them, shall have Authority to name such, and so many persons as they shall think fit to assemble and call together every person, or to repair to their severall houses or dwellings within their respective Counties, and to take their subscriptions, which subscriptions are by them to be returned to such persons as shall be appointed Receivers in the respective Counties▪ who shall from time to time certifie the sums▪ values, or pro<g ref="char:EOLhyphen"/>portions of such subscriptions to the Treasurers of <hi>London.</hi>
+               </p>
+               <p n="2">2. The said Deputy Lieutenants, or the greater part of them shall have power to name Receivers in their severall Counties, and all such as shall either before or af<g ref="char:EOLhyphen"/>ter their subscriptions▪ pay or bring in any Money or Plate, shall deliver the same to such person or persons as shall be appointed by the said Deputy Lieutenants, or the greater part of them▪ under their hands to be receivers, which the said persons so appointed shall cause to be delivered to the Treasurers in London, named in the said propositions, and shall receive acq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittances from the said Treasurers, in the name, and to the use of the severall persons from whom they shall receive such Money or plate▪ and shall deliver such Acquittances to the severall persons to whom they do belong; And all such as make such returns of Money or plate, shall receive reasonable allowance from the Treasurers for the same▪ according to their discre<g ref="char:EOLhyphen"/>tions.</p>
+               <p>All that finde horses, shall presently send them up to London, according to the propositions.</p>
+               <p n="4">4. In those counties where no Commissions are issued to those that were nomi<g ref="char:EOLhyphen"/>nated for Deputy Lieutenants, or none have been nominated, there the same Au<g ref="char:EOLhyphen"/>thority to be given to such Justices of peace, or other Gentlemen of those counties, which shall be named by the Knights and Burgesses of those counties▪ and appro<g ref="char:EOLhyphen"/>ved by both houses, as is to the Deputy Lieutenants in the first Instruction.</p>
+               <p n="5">5 That the time of notice shall be taken, to be from the time that every man hears the propositions first read by the Authority aforesaid.</p>
+               <p n="6">6. It is ordered, That Captain <hi>Burrell</hi> Master <hi>Lloyd Iohn Smith</hi> of <hi>London,</hi> Gent, and <hi>Francis Dowsett</hi> of <hi>London,</hi> Gent, be commissaries to inroll and value the horses and arms, to be raised according to the propositions.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
